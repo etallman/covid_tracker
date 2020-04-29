@@ -1,9 +1,25 @@
 body {
-    background-color: gray;
+    background-color: rgba(255,255,250);
 }
 
 .container {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+
+.image {
+    width: 370px;
+    margin-top: 50px;
+}
+
+/* Tablets and mobile devices*/
+@media (max-width: 770px) {
+    .container {
+        margin: 0 10%;
+    }
+    .image {
+        width: 100%;
+    }
 }
