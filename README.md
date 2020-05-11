@@ -1,5 +1,5 @@
 # COVID19 Tracker
-One Paragraph of project description goes here
+Covid19 Tracker application.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -24,11 +24,10 @@ Deployment
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-ReactJS - The web framework used
-NPM - Dependency Management
-MaterialUI - UI library used for styling
-React-chartjs-2
-React-Countup
+* React
+* React-chartjs-2
+* React-Countup
+* MaterialUI - UI library used for styling
 
 ## Authors
 Eileen Tallman

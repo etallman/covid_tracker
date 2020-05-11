@@ -4,7 +4,7 @@ import { fetchData } from './api';
 import styles from './App.module.css';
 import './App.css';
 
-import covidHeader from './images/virus_image.png';
+import covidHeader from './images/virus_image_logo.jpeg';
 class App extends Component {
 
   state = {
